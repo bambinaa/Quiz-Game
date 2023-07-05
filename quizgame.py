@@ -43,4 +43,4 @@ else:
     print("Falsch!")
 
 print("Du hast " + str(score) + " richtige Antworte.")
-print("Du hast " + str((score/4) * 100) + "%")
+print("Du hast " + str((score/5) * 100) + "%")
